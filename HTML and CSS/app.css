@@ -1,0 +1,22 @@
+h1{
+	color: purple;
+	border-color: yellow;
+	border-width: 5px;
+	border-style: solid;
+	}
+li{
+	color: #0000FF;
+		
+	}
+
+h2{
+	background: rgb(255,0,0);
+}
+
+body{
+	/*background: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;*/
+
+	background: pink;
+}

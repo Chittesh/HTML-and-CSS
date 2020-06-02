@@ -1,0 +1,45 @@
+
+/*table {
+  border-collapse: collapse;
+  border-style: hidden;
+  margin: auto;
+}
+
+h1{
+	text-align: center;
+}
+
+td{
+	width: 50px;
+	height: 50px;
+	border: 0.1em solid black;
+	padding: 50px;
+}*/
+table {
+  margin: auto;
+}
+
+
+h1{
+	text-align: center;
+}
+
+td{
+	width: 110px;
+	height:110px;
+}
+
+#secondCell,#eighthCell{
+	border-right: 0.1em solid black;
+	border-left: 0.1em solid black;
+}
+
+#fifthCell{
+	border: 0.1em solid black;
+}
+
+
+#forthCell,#sixthCell{
+	border-top:0.1em solid black;
+	border-bottom:  0.1em solid black;
+}

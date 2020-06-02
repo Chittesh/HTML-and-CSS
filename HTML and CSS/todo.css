@@ -1,0 +1,13 @@
+body{
+	background-color: orange;
+}
+li{
+	border: 2px solid red;
+}
+#buyGroccer{
+	background-color:  blue;
+}
+.completed{
+	background-color:  green;
+	text-decoration: underline;
+}
